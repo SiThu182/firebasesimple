@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893808240418",
+    "firebase_url": "https://personinfo-adee5.firebaseio.com",
+    "project_id": "personinfo-adee5",
+    "storage_bucket": "personinfo-adee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893808240418:android:a6ee4a2137ad571c72677b",
+        "android_client_info": {
+          "package_name": "com.example.firebasesimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893808240418-g1tpeot4n2uharclbnn6sasmg5i9smvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtbJTnwH4Yj_9h4-9pnjx88bOweUKVp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893808240418-g1tpeot4n2uharclbnn6sasmg5i9smvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
